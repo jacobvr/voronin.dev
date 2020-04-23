@@ -9,7 +9,7 @@ const jobs = [
   {
     title: 'software engineer @ coverhound',
     url: 'https://coverhound.com/',
-    time: 'oct 2017 – now [2 yr 3 mos]',
+    time: 'oct 2017 – now [2 yr 7 mos]',
   },
   {
     title: 'front-end developer @ dermveda',
