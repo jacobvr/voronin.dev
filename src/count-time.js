@@ -17,6 +17,7 @@ export const countTime = ([dateFrom, dateTo]) => {
 
   const yearsString = (years < 1) ? '' : `${years} yr${(years > 1) ? 's' : ''}`;
   const monthsString = (months < 1) ? '' : `${months} mo${(months > 1) ? 's' : ''}`;
+  const space = (yearsString.length && monthsString.length) ? ' ' : '';
 
-  return `${yearsString} ${monthsString}`;
+  return `${yearsString}${space}${monthsString}`;
 };
