@@ -1,4 +1,4 @@
-export const countTime = ([dateFrom, dateTo]) => {
+export const countTime = (dateFrom, dateTo) => {
   const from = new Date(dateFrom);
   const to = (dateTo === 'now') ? new Date() : new Date(dateTo);
 
