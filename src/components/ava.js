@@ -10,11 +10,18 @@ const StyledHeader = styled.header`
 `;
 
 const StyledImage = styled.img`
-  background: #3c3c3c;
+  background: inherit;
   border-radius: 100%;
-  box-shadow: 0 0 30px 20px #3c3c3c;
+  box-shadow: none;
+  transition: 0.2s all ease;
   height: 10rem;
   width: 10rem;
+
+  &:hover {
+    background: #3c3c3c;
+    box-shadow: 0 0 30px 20px #3c3c3c;
+    transform: scale(1.1);
+  }
 `;
 
 const StyledH1 = styled.h1`
