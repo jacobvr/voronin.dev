@@ -8,11 +8,18 @@ import Link from './link';
 
 const jobs = [
   {
+    title: 'software engineer @ loanpal',
+    url: 'https://loanpal.com/',
+    time: 'jun 2020 – now',
+    from: '2020-06',
+    to: 'now',
+  },
+  {
     title: 'software engineer @ coverhound',
     url: 'https://coverhound.com/',
-    time: 'oct 2017 – now',
+    time: 'oct 2017 – jun 2020',
     from: '2017-11',
-    to: 'now',
+    to: '2020-06',
   },
   {
     title: 'front-end developer @ dermveda',
