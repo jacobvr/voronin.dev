@@ -8,8 +8,8 @@ import Link from './link';
 
 const jobs = [
   {
-    title: 'software engineer @ loanpal',
-    url: 'https://loanpal.com/',
+    title: 'software engineer @ goodleap',
+    url: 'https://goodleap.com/',
     time: 'jun 2020 – now',
     from: '2020-06',
     to: 'now',
