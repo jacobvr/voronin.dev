@@ -8,7 +8,7 @@ import Link from './link';
 const projects = [
   {
     title: 'camp paradise',
-    url: 'http://www.app.camp-paradise.org/',
+    url: 'https://app.camp-paradise.org/',
   },
   {
     title: 'housemaid cleaning',
