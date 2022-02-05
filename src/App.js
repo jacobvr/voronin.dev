@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import Ava from './components/ava';
 import Contact from './components/contact';
 import Jobs from './components/jobs';
-import Projects from './components/projects';
+// import Projects from './components/projects';
 
 const StyledApp = styled.div`
   background: #2f2f2f;
