@@ -8,7 +8,7 @@ import Link from './link';
 
 const jobs = [
   {
-    title: 'senior software engineer @ goodleap',
+    title: 'senior software engineer @ confluent',
     url: 'https://confluent.io/',
     time: 'dec 2021 – now',
     from: '2021-12',
