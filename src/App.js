@@ -28,7 +28,7 @@ const App = () => (
     <StyledWrapper>
       <Contact />
       <Jobs />
-      <Projects />
+      {/* <Projects /> */}
     </StyledWrapper>
   </StyledApp>
 );

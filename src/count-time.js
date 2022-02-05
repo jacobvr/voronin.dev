@@ -8,9 +8,7 @@ export const countTime = (dateFrom, dateTo) => {
   const toMonth = to.getMonth();
   const toYear = to.getFullYear();
 
-  const additionalMonth = 1;
-
-  const totalMonths = ((toYear - fromYear) * 12 + (toMonth - fromMonth) + additionalMonth);
+  const totalMonths = ((toYear - fromYear) * 12 + (toMonth - fromMonth));
 
   const years = (totalMonths < 12) ? 0 : Math.floor(totalMonths / 12);
   const months = totalMonths % 12;

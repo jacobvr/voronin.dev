@@ -8,11 +8,18 @@ import Link from './link';
 
 const jobs = [
   {
+    title: 'senior software engineer @ goodleap',
+    url: 'https://confluent.io/',
+    time: 'dec 2021 – now',
+    from: '2021-12',
+    to: 'now',
+  },
+  {
     title: 'software engineer @ goodleap',
     url: 'https://goodleap.com/',
-    time: 'jun 2020 – now',
+    time: 'jun 2020 – dec 2021',
     from: '2020-06',
-    to: 'now',
+    to: '2021-12',
   },
   {
     title: 'software engineer @ coverhound',

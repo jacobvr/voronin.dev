@@ -6,7 +6,7 @@ const StyledHeader = styled.header`
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  padding: 3rem;
+  padding: 2rem;
 `;
 
 const StyledImage = styled.img`
@@ -43,7 +43,7 @@ const Ava = () => (
     <StyledH1 className="header">
       jacob voronin
       <br />
-      software engineer
+      senior software engineer
     </StyledH1>
   </StyledHeader>
 );
